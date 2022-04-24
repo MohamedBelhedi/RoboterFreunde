@@ -51,11 +51,11 @@ this.state={
         // wenn es lange dauern soll einen If statment setzen
 
        
-        // if(!robots.length)
-        // {
-        //     return <h1>Laden</h1>
+        if(!robots.length)
+        {
+            return <h1>Laden</h1>
 
-        // }
+        }
        if(!robots.length==filterRobot)
         {   
         //   setTimeout(()=>{
