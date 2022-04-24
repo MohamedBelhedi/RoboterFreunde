@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RoboterFreunde/static/css/main.4b66c611.css",
-    "main.js": "/RoboterFreunde/static/js/main.e265246b.js",
+    "main.js": "/RoboterFreunde/static/js/main.2300dc64.js",
     "static/js/787.32032a02.chunk.js": "/RoboterFreunde/static/js/787.32032a02.chunk.js",
     "index.html": "/RoboterFreunde/index.html",
     "main.4b66c611.css.map": "/RoboterFreunde/static/css/main.4b66c611.css.map",
-    "main.e265246b.js.map": "/RoboterFreunde/static/js/main.e265246b.js.map",
+    "main.2300dc64.js.map": "/RoboterFreunde/static/js/main.2300dc64.js.map",
     "787.32032a02.chunk.js.map": "/RoboterFreunde/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b66c611.css",
-    "static/js/main.e265246b.js"
+    "static/js/main.2300dc64.js"
   ]
 }
