@@ -26,7 +26,7 @@ this.state={
 
     componentDidMount(){
 
-    fetch('https://jsonplaceholder.typicode.com/users')
+    fetch('http://jsonplaceholder.typicode.com/users')
     .then(response=>response.json())
     .then(users=>this.setState({robots:users})
 
